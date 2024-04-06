@@ -1,0 +1,3 @@
+C:/Users/Colton/Desktop/ReverseSentence/cmake-build-debug/CMakeFiles/ReverseSentence.dir
+C:/Users/Colton/Desktop/ReverseSentence/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Colton/Desktop/ReverseSentence/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+1	74	7340839131771246	CMakeFiles/ReverseSentence.dir/main.c.obj	f8d4801e0a30b380
+74	155	7340839132541264	ReverseSentence.exe	625504e028bd46f6
+2	76	7340839251962068	CMakeFiles/ReverseSentence.dir/main.c.obj	f8d4801e0a30b380
+77	157	7340839252732067	ReverseSentence.exe	625504e028bd46f6
+1	72	7340839372074837	CMakeFiles/ReverseSentence.dir/main.c.obj	f8d4801e0a30b380
+73	152	7340839372834833	ReverseSentence.exe	625504e028bd46f6
+2	71	7340839456648641	CMakeFiles/ReverseSentence.dir/main.c.obj	f8d4801e0a30b380
+72	151	7340839457418632	ReverseSentence.exe	625504e028bd46f6
